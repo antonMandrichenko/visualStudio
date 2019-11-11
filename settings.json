@@ -1,0 +1,24 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "go.autocompleteUnimportedPackages": true,
+    "files.autoSave": "onFocusChange",
+    "window.zoomLevel": 1,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "extensions.autoUpdate": false,
+    "extensions.autoCheckUpdates": false,
+    "update.showReleaseNotes": false,
+    "update.mode": "none",
+    "vetur.format.defaultFormatter.js": "prettier-eslint",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
